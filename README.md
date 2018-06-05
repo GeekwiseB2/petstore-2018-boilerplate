@@ -9,6 +9,6 @@ Recreate this site using the bootstrap framework.
 </figure>
 
 <figure>
-    <img src="img/petstore-xs-sm-view.png" alt="Extra small and Small view"/>
+    <img src="img/petstore-xs-sm-view.png" alt="Extra small and Small view" style="max-width:400px;"/>
     <figcaption>This is how it should look on extra-small and small screens</figcaption>
 </figure>
