@@ -6,26 +6,26 @@ Take the layout you have created from part one of this assignment and stylize th
 
 # Index Page
 
-## This is how it should look on medium and large screens
+## Example style on medium and large screens
 <figure>
     <img src="img/part2-petstore-md-lg-view.png" alt="Medium and Large view"/>
 </figure>
 
 
-## This is how it should look on extra-small and small screens
+## Example style on extra-small and small screens
 <figure>
     <img src="img/part2-petstore-xs-sm-view.png" alt="Extra small and Small view" style="max-width:400px;"/>
 </figure>
 
 # Contact Page
 
-## This is how it should look on medium and large screens
+## Example on medium and large screens
 <figure>
     <img src="img/part2-petstore-contact-md-lg-view.png" alt="Medium and Large view"/>
 </figure>
 
 
-## This is how it should look on extra-small and small screens
+## Example on extra-small and small screens
 <figure>
     <img src="img/part2-petstore-contact-xs-sm-view.png" alt="Extra small and Small view" style="max-width:400px;"/>
 </figure>
